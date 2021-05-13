@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.deps.json
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.AssemblyInfo.cs
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Commons.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Data.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Data.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Commons.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Core\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Core.csproj.CopyComplete

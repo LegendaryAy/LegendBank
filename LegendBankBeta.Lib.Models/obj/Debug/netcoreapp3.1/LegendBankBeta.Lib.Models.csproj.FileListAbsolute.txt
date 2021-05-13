@@ -1,0 +1,12 @@
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.deps.json
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Commons.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\bin\Debug\netcoreapp3.1\LegendBankBeta.Lib.Commons.pdb
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.AssemblyInfo.cs
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.csproj.CopyComplete
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.dll
+C:\Users\hp\Documents\Projects\LegendBankBeta\LegendBankBeta.Lib.Models\obj\Debug\netcoreapp3.1\LegendBankBeta.Lib.Models.pdb

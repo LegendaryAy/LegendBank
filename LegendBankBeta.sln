@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendBankBeta.Lib.Data", "LegendBankBeta.Lib.Data\LegendBankBeta.Lib.Data.csproj", "{FEAE3BC3-CA44-4CD8-9D07-3C064EFC5C24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendBankBeta.UI", "LegendBankBeta.UI\LegendBankBeta.UI.csproj", "{F196637F-1D1A-4969-B2AC-4178927E9012}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendBankBeta.Lib.Models", "LegendBankBeta.Lib.Models\LegendBankBeta.Lib.Models.csproj", "{6D232859-7ED7-4A6B-A776-0B2EB043A5CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendBankBeta.Lib.Commons", "LegendBankBeta.Lib.Commons\LegendBankBeta.Lib.Commons.csproj", "{245237EF-E4A6-4948-851D-E64F6786BB43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendBankBeta.Lib.Core", "LegendBankBeta.Lib.Core\LegendBankBeta.Lib.Core.csproj", "{CB39DB06-0DCE-4F12-85E4-DB9779AF2B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendBankBeta.Test", "LegendBankBeta.Test\LegendBankBeta.Test.csproj", "{6D09832E-6A24-4B39-9025-21DB9BB951E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAE3BC3-CA44-4CD8-9D07-3C064EFC5C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE3BC3-CA44-4CD8-9D07-3C064EFC5C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE3BC3-CA44-4CD8-9D07-3C064EFC5C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE3BC3-CA44-4CD8-9D07-3C064EFC5C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F196637F-1D1A-4969-B2AC-4178927E9012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F196637F-1D1A-4969-B2AC-4178927E9012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F196637F-1D1A-4969-B2AC-4178927E9012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F196637F-1D1A-4969-B2AC-4178927E9012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D232859-7ED7-4A6B-A776-0B2EB043A5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D232859-7ED7-4A6B-A776-0B2EB043A5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D232859-7ED7-4A6B-A776-0B2EB043A5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D232859-7ED7-4A6B-A776-0B2EB043A5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245237EF-E4A6-4948-851D-E64F6786BB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245237EF-E4A6-4948-851D-E64F6786BB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245237EF-E4A6-4948-851D-E64F6786BB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245237EF-E4A6-4948-851D-E64F6786BB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB39DB06-0DCE-4F12-85E4-DB9779AF2B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB39DB06-0DCE-4F12-85E4-DB9779AF2B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB39DB06-0DCE-4F12-85E4-DB9779AF2B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB39DB06-0DCE-4F12-85E4-DB9779AF2B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D09832E-6A24-4B39-9025-21DB9BB951E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D09832E-6A24-4B39-9025-21DB9BB951E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D09832E-6A24-4B39-9025-21DB9BB951E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D09832E-6A24-4B39-9025-21DB9BB951E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206D73F8-3C4E-46B2-A682-57F61ADAE51D}
+	EndGlobalSection
+EndGlobal
